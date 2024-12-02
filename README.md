@@ -9,6 +9,14 @@ Research Question: How accurately can an image classification model identify the
 - Preprocessing the data by loading images locally using python
 - Running exploratory plots using matplotlib and making models is scikitlearn and tensorflow
 
+## Reproducing results
+
+- Navigate to the ipynb file in the Scripts folder
+- Uncomment the first line of python code to clone the github repository locally
+- Run the Function Defintion and Preprocessing portions to prepare the dataframe
+- Run the Graphing portion to see exploratory results
+- Run the Models portion to see results of the neural network and accuracy
+
 ## Map of Documentation
 DS4002-PI
 - LICENSE.md
