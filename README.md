@@ -1,4 +1,4 @@
-# DS4002-P2: COVID-19's Effect on Demographics Over Time
+# DS4002-P3: Classifying Movie Genres using Image Data
 
 ### Group 5: Neha Channamraju, Sebastian Wiktorowicz, Catherine Young (leader)
 Research Question: How accurately can an image classification model identify the genre specific components of movie posters?
